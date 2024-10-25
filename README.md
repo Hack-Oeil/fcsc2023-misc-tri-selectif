@@ -5,6 +5,12 @@ Vous devez trier un tableau dont vous ne voyez pas les valeurs !
 Une version légèrement plus complexe est disponible ici : Tri Très Sélectif.
 
 
+Fichiers :
+- [client.py](client.py)
+- [tri-selectif.py](tri-selectif.py)
+
+
+
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 

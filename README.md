@@ -1,27 +1,23 @@
-# FCSC 2023 Comparaison
+# FCSC 2023 Tri Sélectif
 
-Afin de se familiariser avec la machine virtuelle et son langage assembleur, vous devez écrire dans cette épreuve un code assembleur qui effectue une comparaison.
+Vous devez trier un tableau dont vous ne voyez pas les valeurs !
 
-La machine est initialisée avec deux valeurs aléatoires dans les registres R5 et R6. À la fin du programme, R0 doit contenir 1 si les valeurs sont différentes, 0 sinon.
-
-Le code machine (bytecode) sera envoyé sous un format hexadécimal, qu’on pourra générer à l’aide de l’assembleur fourni (fichier assembly.py).
-
-La documentation de la machine virtuelle est disponible sur cette page.
+Une version légèrement plus complexe est disponible ici : Tri Très Sélectif.
 
 
 
-Auteurs : Neige
+Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
-Origine : [Comparaison](https://hackropole.fr/fr/challenges/hardware/fcsc2023-hardware-asm-comparaison/)
+Origine : [Tri Sélectif](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-tri-selectif/)
+
 
 -----------
-
 
 ## Connectez vous en WEBSSH
 > http://localhost
 
 #### tentez 
-> nc comparaison.cyrhades.fr:4000
+> nc tri-selectif.cyrhades.fr:4000
 
 -----------
 
@@ -31,16 +27,18 @@ Origine : [Comparaison](https://hackropole.fr/fr/challenges/hardware/fcsc2023-ha
 
 -----------
 
+
 ## Installation manuel
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
 Mais voici comment installer ce CTF manuellement :
 
-> git clone https://github.com/Hack-Oeil/fcsc2023-hardware-asm-comparaison.git
+> git clone https://github.com/Hack-Oeil/fcsc2023-misc-tri-selectif.git
 
-> cd fcsc2023-hardware-asm-comparaison
+> cd fcsc2023-misc-tri-selectif
 
 
 -----------
 
+
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/fr/challenges/hardware/fcsc2023-hardware-asm-comparaison/
+> https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-tri-selectif/

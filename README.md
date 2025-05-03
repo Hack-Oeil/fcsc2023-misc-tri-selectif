@@ -23,12 +23,12 @@ Origine : [Tri Sélectif](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc
 > http://localhost
 
 #### tentez 
-> nc tri-selectif.cyrhades.fr:4000
+> nc tri-selectif.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------

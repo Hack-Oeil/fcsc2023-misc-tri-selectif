@@ -12,7 +12,7 @@ Fichiers :
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Tri Sélectif](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-tri-selectif/)
 
